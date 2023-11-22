@@ -12,7 +12,7 @@ public class Student {
 //		System.out.println(a+4);
 	}
 
-	public void display2() {
+	public void display3() {
 		System.out.println("Automation is easy");
 	}
 
@@ -20,7 +20,7 @@ public class Student {
 		Student abc = new Student(); // object is used to access class's methods and variables
 
 		abc.display1();
-		abc.display2();
+		abc.display3();
 		abc.name="Panda";
 		abc.rollNo = 1;
 		abc.age = 15;
